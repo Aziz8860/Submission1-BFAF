@@ -1,6 +1,6 @@
 # RestaurantApp
 
-A new Flutter project.
+Simple Restaurant Mobile App using Flutter.
 
 ## Getting Started
 
